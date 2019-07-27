@@ -6,7 +6,7 @@ An Active Admin plugin to use [Trumbowyg Editor](https://alex-d.github.io/Trumbo
 
 ## Install
 
-- Update your Gemfile: `gem 'activeadmin_trumbowyg', git: 'https://github.com/marstonhillier/activeadmin_trumbowyg` (and execute *bundle*)
+- Update your Gemfile: `gem 'activeadmin_trumbowyg', git: 'https://github.com/marstonhillier/activeadmin_trumbowyg'` (and execute *bundle*)
 - Add at the end of your ActiveAdmin styles (_app/assets/stylesheets/active_admin.scss_):
 ```css
 @import 'activeadmin/trumbowyg/ui/sass/trumbowyg';
